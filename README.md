@@ -1,4 +1,5 @@
 # HR Policy Assistant (RAG) - Meher Sambalpuri Fashion
+# link:https://subrat7568.github.io/Customersupport_RAGproj/
 
 **A hallucination-free HR chatbot built with RAG (Retrieval-Augmented Generation).** Ask HR questions in plain English; answers come **only** from the HR policy PDF, with clause numbers and source text shown.
 
