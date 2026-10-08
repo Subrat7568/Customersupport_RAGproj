@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+data/uploaded_policy.pdf
+data/uploaded_name.txt
+data/_incoming.pdf
+.DS_Store
